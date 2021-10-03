@@ -14,5 +14,5 @@
 - https://akasatanahama.com/posts/117/  
 - https://akasatanahama.com/posts/118/  
 
-### The guitar sounds used in this app were created using Russian DTM software called Sonvox.  
+#### The guitar sounds used in this app were created using Russian DTM software called Sonvox.  
 - https://warmplace.ru/soft/sunvox/  
