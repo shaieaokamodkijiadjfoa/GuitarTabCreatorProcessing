@@ -1,4 +1,4 @@
-# GuiterTabCreatorProcessing
+# Guitar Tab Creator created using Processing
 
 ### please check my blog!  
 
